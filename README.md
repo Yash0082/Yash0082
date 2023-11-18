@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yash0082
+- 👋 Hi, I’m Yash Adagale
 - 👀 I’m interested in Web Dev, Artificial Intelligence,Data Science and UI UX
 - 🌱 I’m currently learning BE in AI and DS
 - 💞️ I’m looking to collaborate on many Projects
